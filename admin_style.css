@@ -1,0 +1,22 @@
+#menuu{
+    cursor: pointer;
+}
+#resirverimine{
+    cursor: pointer;
+}
+#reserverimine_tabel{
+    position: absolute;
+    top:100px;
+    left:1200px;
+}
+#menuu_tabel{
+    position: absolute;
+    top:100px;
+    left:400px;
+}
+#text{
+    text-align: center;
+}
+#text2{
+    text-align: center;
+}
